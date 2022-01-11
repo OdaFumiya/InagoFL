@@ -1,6 +1,0 @@
-c8 -r json mocha --reporter json -g 'Mocha test example.input 3.input 3' > "./coverage/testresult-Mocha test example.input 3.input 3.json"
-mv -f ./coverage/coverage-final.json "./coverage/coverage-Mocha test example.input 3.input 3.json"
-c8 -r json mocha --reporter json -g 'Mocha test example.input 5.input 5' > "./coverage/testresult-Mocha test example.input 5.input 5.json"
-mv -f ./coverage/coverage-final.json "./coverage/coverage-Mocha test example.input 5.input 5.json"
-c8 -r json mocha --reporter json -g 'Mocha test example.input 15.input 15' > "./coverage/testresult-Mocha test example.input 15.input 15.json"
-mv -f ./coverage/coverage-final.json "./coverage/coverage-Mocha test example.input 15.input 15.json"
