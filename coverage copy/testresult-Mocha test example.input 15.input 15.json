@@ -1,0 +1,52 @@
+{
+  "stats": {
+    "suites": 2,
+    "tests": 1,
+    "passes": 0,
+    "pending": 0,
+    "failures": 1,
+    "start": "2022-01-07T08:20:20.196Z",
+    "end": "2022-01-07T08:20:20.200Z",
+    "duration": 4
+  },
+  "tests": [
+    {
+      "title": "input 15",
+      "fullTitle": "Mocha test example input 15 input 15",
+      "file": "F:\\dpfgt\\desktop\\trial-js-coverage-w-c8-mocha-main\\test\\test.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {
+        "stack": "AssertionError [ERR_ASSERTION]: Expected values to be loosely deep-equal:\n\n'b'\n\nshould loosely deep-equal\n\n'fb'\n    at Context.<anonymous> (test\\test.js:22:14)\n    at processImmediate (node:internal/timers:464:21)",
+        "message": "Expected values to be loosely deep-equal:\n\n'b'\n\nshould loosely deep-equal\n\n'fb'",
+        "generatedMessage": true,
+        "name": "AssertionError",
+        "code": "ERR_ASSERTION",
+        "actual": "b",
+        "expected": "fb",
+        "operator": "deepEqual"
+      }
+    }
+  ],
+  "pending": [],
+  "failures": [
+    {
+      "title": "input 15",
+      "fullTitle": "Mocha test example input 15 input 15",
+      "file": "F:\\dpfgt\\desktop\\trial-js-coverage-w-c8-mocha-main\\test\\test.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {
+        "stack": "AssertionError [ERR_ASSERTION]: Expected values to be loosely deep-equal:\n\n'b'\n\nshould loosely deep-equal\n\n'fb'\n    at Context.<anonymous> (test\\test.js:22:14)\n    at processImmediate (node:internal/timers:464:21)",
+        "message": "Expected values to be loosely deep-equal:\n\n'b'\n\nshould loosely deep-equal\n\n'fb'",
+        "generatedMessage": true,
+        "name": "AssertionError",
+        "code": "ERR_ASSERTION",
+        "actual": "b",
+        "expected": "fb",
+        "operator": "deepEqual"
+      }
+    }
+  ],
+  "passes": []
+}
