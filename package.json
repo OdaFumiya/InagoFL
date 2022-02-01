@@ -1,6 +1,6 @@
 {
   "name" : "sjsfl",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "ServerSide Javascript Fault Localization",
   "main": "lib.js",
   "private": true,
@@ -11,10 +11,7 @@
     "mocha-list-tests": "^1.1.0"
   },
   "bin": {
-    "sjsfl": "bin/cli.js"
-  },
-  "devDependencies": {
-    "mocha-list-tests": "^1.1.0"
+    "InagoFL": "bin/cli.js"
   },
   "author": "Fumiya Oda"
 }
