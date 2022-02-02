@@ -1,5 +1,5 @@
 {
-  "name" : "sjsfl",
+  "name" : "InagoFL",
   "version": "1.0.0",
   "description": "ServerSide Javascript Fault Localization",
   "main": "lib.js",
@@ -11,7 +11,7 @@
     "mocha-list-tests": "^1.1.0"
   },
   "bin": {
-    "InagoFL": "bin/cli.js"
+    "inagoFL": "bin/cli.js"
   },
   "author": "Fumiya Oda"
 }
